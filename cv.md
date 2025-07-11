@@ -2,7 +2,9 @@
 ## Akimov Vladislav
 ## Contacts
 - E-mail: fkola4739@gmail.com
-- GitHub: github.com/finger45
+- GitHub: github.com/finger45  
+
+
 ## About Me
 I'm a high-school student living in Russia, very interested in front-end development.  
 ## Skills
