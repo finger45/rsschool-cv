@@ -11,7 +11,9 @@ I'm a high-school student living in Russia, very interested in front-end develop
 - Python
 - C++
 - Git
-- VS Code
+- VS Code  
+
+
 ## Code Example
 ```
 int multiply(int a, int b) {
