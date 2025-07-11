@@ -22,6 +22,8 @@ int multiply(int a, int b) {
 ```
 ## Experience
 ## Education
-- JS/FE Pre-School RS School
+- JS/FE Pre-School RS School  
+
+
 ## English
 Have some practice.
