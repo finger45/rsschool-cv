@@ -1,12 +1,14 @@
 ## [rsschool-cv](https://finger45.github.io/rsschool-cv/)
 ## Akimov Vladislav
-## Contacts
+## Contacts 
 - E-mail: fkola4739@gmail.com
 - GitHub: github.com/finger45  
 
 
-## About Me
+## Summary
 I'm a high-school student living in Russia, very interested in front-end development.  
+
+
 ## Skills
 - Python
 - C++
