@@ -21,9 +21,14 @@ html {
     width: 300px !important;
 }
 
+.main-block {
+    justify-content: center;
+}
+
 .body {
     background-color: rgb(187, 161, 236);
     display: flex;
+    font-size: 20px;
     flex-direction: column;
     flex-wrap: nowrap;
     justify-content: space-between;
